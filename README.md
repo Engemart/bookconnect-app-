@@ -31,7 +31,7 @@ Conceber e implementar um aplicativo robusto e amigável para dispositivos móve
 Os mockups foram desenvolvidos no Figma e representam a experiência visual esperada do app.  
 Acesse o protótipo online aqui:
 
-📎 [Protótipo no Figma](https://figma.com/coloque-o-link-aqui)
+📎 [Protótipo no Figma](https://www.figma.com/proto/BGKZD0VGJ7F5Tpp1QfCKWY/Cia-do-Livro?node-id=1-3&p=f&t=6XvgWCyLVO2whcAV-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1))
 
 ---
 
